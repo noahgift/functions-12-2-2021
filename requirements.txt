@@ -4,3 +4,5 @@ pylint
 ipython
 boto3
 click
+fastapi
+uvicorn[standard]
