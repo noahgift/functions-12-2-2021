@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+
+
 def capit(word):
     """This capitalizes a word"""
 
@@ -6,6 +9,6 @@ def capit(word):
     print(f"This is the new version: {work}")
     return work
 
-
+capit("cherry")
 # var=1
 # var=var
